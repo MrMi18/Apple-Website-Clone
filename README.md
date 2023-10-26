@@ -1,2 +1,2 @@
 # Apple-Website-Clone
-Simple clone of Apple's website using HTML and CSS.
+A simple clone of Apple's website using HTML and CSS.   https://mrmi18.github.io/Apple-Website-Clone/
