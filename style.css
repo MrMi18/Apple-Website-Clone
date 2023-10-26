@@ -1,0 +1,290 @@
+*{
+    color: white;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+   
+}
+
+
+
+#navp{
+    display: inline-block;
+    margin-right: 200px;
+}
+.nav{
+    background-color: black ;
+    height: 50px;
+    font-size: 20px;
+    padding-top: 15px;
+  
+}
+.logo{
+    color:rgb(153, 153, 15);
+    margin-left: 50px;
+}
+.bn{
+    background-color: rgb(153, 153, 15) ;
+}
+/* Hey this is Iphone clone */
+/* hearder :start */
+.iphonav{
+    background-color: #000000CC;
+    height: 44px;
+    padding-top: 15px;
+    
+}
+.sbar{
+    color:black;
+}
+#navi{
+    height:44px;
+    margin-right: 20px;
+    width: 39px;
+}
+#iphone{
+    height:47px;
+    margin-right:25px;
+    
+    
+}
+.nav2{
+    
+    background-color: #FBFBFD;
+    
+    padding-top: 10px;
+    height: 90px;
+    
+}
+
+/* header :end */
+
+/* main :start */
+/* main1 :start iphone 14*/
+.main1{
+    text-align: center;
+    padding-top: 50px;
+    background-color: white;
+}
+#new{
+    color:rgb(117, 114, 114);
+    font-size: 10px;
+    margin-bottom: -15px;
+}
+.main1 h3{
+    color: rgb(0, 0, 0);
+    margin-bottom: -15px;
+}
+.main1 h1{
+    color: rgb(122, 22, 216);
+    margin-bottom: -5px;
+}
+.main1 p{
+   color: black;
+}
+#bn1{
+    background-color: rgb(46, 46, 241);
+    margin-right: 10px;
+    border: 2px solid white;
+     
+}
+.hr{
+    height: 10px; 
+    background-color: rgb(241, 234, 234);
+    text-decoration: none;
+}
+/* main1 :end */
+
+/* main2 :start iphone 14 pro*/
+.main2{
+    text-align: center;
+    padding-top: 50px;
+    background-color: rgb(0, 0, 0);
+}
+#new{
+    color:rgb(117, 114, 114);
+    font-size: 10px;
+    margin-bottom: -15px;
+}
+.main2 h3{
+    color: rgb(255, 254, 254);
+    margin-bottom: -15px;
+}
+.main2 h1{
+    color: blueviolet;
+    margin-bottom: -5px;
+}
+.main2 p{
+   color: white;
+}
+#bn1{
+    background-color: rgb(46, 46, 241);
+    margin-right: 10px;
+    border: 2px solid white;
+}
+/* main2 :end */
+
+/* main3 :start  Iphone se*/
+.main3-1{
+    display: inline-block;
+    padding-top: 50px;
+    background-color: white;
+   
+}
+#new{
+    color:rgb(117, 114, 114);
+    font-size: 10px;
+    margin-bottom: -15px;
+}
+.main3-1 h3{
+    color: rgb(0, 0, 0);
+    margin-bottom: -15px;
+}
+.main3-1 h1{
+    color: blueviolet;
+    margin-bottom: -25px;
+}
+.main3-1 p{
+   margin-top: 35px;
+   color: black;
+}
+#bn1{
+    background-color: rgb(46, 46, 241);
+    margin-right: 10px;
+    border: 2px solid white;
+    
+}
+.main3-imag2{
+    text-align: center;
+    
+}
+.main3{
+  text-align: center;
+  width: 100% vw;
+  height: 830px;   
+
+}
+#main3-img1{
+    width: 494px;
+    
+}
+
+.main3-imag3{
+    width: 100% vw;
+    height: 830px;   
+    background-image: url("/images/iPro imag1.png");
+    background-size: cover;
+
+}
+.inner-text{
+   padding-top: 350px;
+    margin-left: 300px;
+}
+.inner-text h5{
+    margin-bottom: -15px;
+}
+.inner-text h2{
+   
+}
+.main4{
+   text-align: center;
+}
+#timag{
+    width: 190px;
+    height: 257px;
+}
+.table1{
+      margin-left: 250px;
+}
+.table1 td{
+  
+    color: black;
+}
+#iprice{
+    padding-top: 20px;
+}
+.tbody1 td{
+    padding-top: 20px;
+    
+}
+.tbody td{
+    margin-bottom: 10px;
+    width: 940px;
+    height: 1802.75px;
+}
+.after-table{
+    
+    text-align: center;
+    margin-top: 50px  ;
+    margin-bottom: 70px;
+}
+.after-table a{
+    color: blue;
+}
+
+.main-second{
+background-color: rgb(241, 234, 234);
+padding-top: 10px;
+width: 100vw;
+
+
+}
+
+#p2{
+    color: black;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.main-image4{
+    height: 587px;
+    padding: 10px;
+    margin-left:40px;
+
+    background-color: #01012A;
+    width: 90vw;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap: nowrap;
+    
+    
+}
+.i4-text{
+    text-align: center;
+  
+    height: 250px;
+    padding-left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+    
+    
+}
+
+#i4-i{
+    width: 106px;
+    padding-top: 30px;
+    margin-bottom: -43px;
+    
+}
+#i4-h{
+  font-size: 50px;
+    color: #FFFFFF;
+    margin-bottom: -8px;
+}
+#i4-a{
+    color: blue;
+    text-decoration: none;
+}
+.d1-image4{
+  
+    text-align: right;
+    padding-left: 120px;
+    
+}
+#i4-main{
+    
+}
+#p2{
+    text-align: center;
+}
